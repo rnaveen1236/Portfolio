@@ -1,4 +1,4 @@
-🚀 Personal Portfolio Website 
+**🚀 Personal Portfolio Website 
 
 This is my personal Portfolio Website, designed and developed using HTML, CSS, and JavaScript.
 It showcases my skills, projects, education, experience, and contact details in a clean and modern UI.
@@ -120,3 +120,4 @@ Naveen Kumar R
 
 If you like this portfolio, feel free to ⭐ the repository!
 Your support motivates me to build more exciting projects. 🙌
+******
